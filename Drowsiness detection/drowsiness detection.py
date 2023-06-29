@@ -100,7 +100,7 @@ while(True):
             if(thicc<2):
                 thicc=2
         cv2.rectangle(frame,(0,0),(width,height),(0,0,255),thicc) 
-    cv2.imshow('frame',frame)
+    cv2.imshow('+-x',frame)
     if cv2.waitKey(1) & 0xFF == ord('f'):
         break
 cap.release()
