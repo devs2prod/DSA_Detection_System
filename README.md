@@ -3,7 +3,7 @@
 
 Here is a detailed description of this project:
 
-• Driver drowsiness detection systems can use cameras, eye tracking sensors, and other hardware to monitor visual cues, where drowsiness can be detected through yawning frequency, eye-blinking frequency, eye-gaze movement, head movement, and facial expressions.[Read More.]{Alcohol Detection/README.md}
+• Driver drowsiness detection systems can use cameras, eye tracking sensors, and other hardware to monitor visual cues, where drowsiness can be detected through yawning frequency, eye-blinking frequency, eye-gaze movement, head movement, and facial expressions.[Read More.]{[Alcohol Detection/README.md](https://github.com/Code-blogger/DSA_Dectection_System/tree/master/Alcohol%20Detection)}
 
 • The main unit of this project is an “Alcohol sensor”. If the person inside the car has consumed alcohol then it is alcohol detection is done by the sensor. The sensor gives this signal through a buzzer or alarm.[Read More.]
 
