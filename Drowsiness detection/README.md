@@ -12,7 +12,14 @@ The functionality of each module is as follows:
 * _Raising an alarm_–As the System detects the driver is feeling drowsy alarm will be raised.
 
 #### Hardware Interface:
-* Camera
+* Arduino UNO
+• MQ-3 Sensor
+• MQ-2 Sensor
+• Buzzer
+• LED
+• Jumper Wires
+• Breadboard
+• Cable
 * Personal Computer (min. 8 GB RAM, i3 Processor)
 
 #### Software Interface:
