@@ -28,5 +28,10 @@ The functionality of each module is as follows:
 * Anaconda software
 * OS (Windows or Ubuntu)
 
-## Flow Chart:
-![image](https://github.com/Code-blogger/DSA_Dectection_System/assets/84615558/63095866-7647-40ed-b3b6-2855523ef9fa)
+#### Closed Eyes:
+![image](https://github.com/Code-blogger/DSA_Dectection_System/assets/84615558/ced0b463-4352-41c3-83e5-f0c19efb21f8)
+
+#### Open Eyes: 
+![image](https://github.com/Code-blogger/DSA_Dectection_System/assets/84615558/b84af3c2-78a8-4238-8b69-3b20990ee6ec)
+
+
