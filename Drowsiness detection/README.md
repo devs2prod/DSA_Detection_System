@@ -1,4 +1,4 @@
-#Driver Drowsiness Detection
+# Driver Drowsiness Detection
 **Driver drowsiness detection** systems can use cameras, eye-tracking sensors, and other hardware to monitor visual cues, where drowsiness can be detected through yawning frequency, eye-blinking frequency, eye-gaze movement, head movement, and facial expressions.
 
 > Submodules for the Drowsiness detection system are as follows-
@@ -27,3 +27,6 @@ The functionality of each module is as follows:
 * Python Libraries (Numpy, Scipy, Dlib, etc.)
 * Anaconda software
 * OS (Windows or Ubuntu)
+
+## Flow Chart:
+![image](https://github.com/Code-blogger/DSA_Dectection_System/assets/84615558/63095866-7647-40ed-b3b6-2855523ef9fa)
