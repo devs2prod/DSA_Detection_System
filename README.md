@@ -13,5 +13,8 @@ Here is a detailed description of this project:
 ## Activity Diagram:
 ![image](https://github.com/Code-blogger/DSA_Dectection_System/assets/84615558/a4b0b5c5-4d99-4414-895d-2b2050b40a91)
 
+## Report:
+[Report.pdf](https://github.com/Code-blogger/DSA_Detection_System/files/12026489/Major.Report.pdf)
+
 ## Usefulness:
 Very useful for preventing the lives of so many people. This detection system can alert the driver getting drowsy and consuming a high amount of alcohol which helps to prevent the chances of an accident. Smoke detection is an additional safety tool for this project.
